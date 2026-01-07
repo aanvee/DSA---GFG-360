@@ -1,6 +1,6 @@
 # DSA---GFG-360
 
-This repository contains my solutions to the **GeeksforGeeks 160 Days of Problem Solving** program.
+This repository contains my solutions to the **GeeksforGeeks 360 Days of Problem Solving** program.
 
 # Topics Covered
 - Arrays
